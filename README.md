@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+☃️&size=25&color=58a6ff)](https://git.io/typing-svg)
 ### *I'm studying*
-<img src="https://img.shields.io/badge/Spring Boot-4B5E8F?&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-4B5E8F?&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-4B5E8F?&logo=Spring%20Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-4B5E8F?&logo=kotlin&logoColor=white"/>
 ### *Experiences*
 ❄️ [@daangn](https://github.com/daangn) Backend Intern (2024.08 ~ 2024.11)<br/>
 ❄️ [@softsquared](https://github.com/neordinary) G-worker (2023.10 ~ 2024.03 / 2024.07)<br/>
